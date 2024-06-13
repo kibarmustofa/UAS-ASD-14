@@ -13,7 +13,6 @@ class LinkedList {
     public LinkedList() {
         this.head = null;
     }
-
     
     public void append(Kendaraan kendaraan) {
         Node newNode = new Node(kendaraan);

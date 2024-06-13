@@ -1,3 +1,4 @@
+
 public class TransaksiPajak {
     int kode, bulanBayar;
     long nominalBayar, denda;

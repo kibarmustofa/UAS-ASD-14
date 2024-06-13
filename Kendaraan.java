@@ -11,5 +11,4 @@ public class Kendaraan{
         this.bulanHarusBayar = bulanHarusBayar;
 
     }
-
 }
